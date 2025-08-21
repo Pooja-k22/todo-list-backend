@@ -1,4 +1,4 @@
-# ToDo List frontend
+# ToDo List backend
 
 To-Do application that allows users to manage tasks efficiently. Users can add, update, mark as complete, and delete tasks. The app provides a simple, responsive interface and persists data using a backend server.
 
